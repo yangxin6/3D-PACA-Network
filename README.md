@@ -94,9 +94,9 @@ We conducted tests on a total of 17 datasets obtained from four types of sensors
 
 
 
-The ground truth of the test data and our model’s prediction results are published at the following address: 
-datasets [link](https://www.kaggle.com/datasets/yangxin6/test-point-cloud-datasets-of-mazie-population)
-
+The ground truth of the test data and prediction results are published at the following address: 
+- datasets: [link](https://www.kaggle.com/datasets/yangxin6/mazie-population-datasets)
+- pred label: [link](https://www.kaggle.com/datasets/yangxin6/pacanet-pred)
 
 
 Additionally, we express our gratitude to several scholars who shared their data with us. We processed and annotated these data for testing purposes. The original links to these data include:
@@ -118,7 +118,7 @@ python tools/train.py --config-file configs/corn3d_group/insseg-pointgroup-v2m1-
 ```bash
 python tools/test.py --config-file configs/corn3d_group/insseg-pointgroup-v2m1-0-pt3m2-base.py  --options save_path="{weight_path}"  weight="{weight_path}/model_best.pth"
 ```
-We provide our best model weights here: [model_pth](https://www.kaggle.com/datasets/yangxin6/3d-point-cloud-central-axis-aggregation-network)
+We provide our best model weights here: [model_pth](https://www.kaggle.com/datasets/yangxin6/pacanet-model-pth)
 
 
 
