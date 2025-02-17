@@ -2,9 +2,8 @@
 
 ## Network
 
-![3D-Point-Cloud-Central-Axis-Aggregation-Network.jpg](imgs%2F3D-Point-Cloud-Central-Axis-Aggregation-Network.jpg)
-
-
+![Fig4.jpg](imgs%2FFig4.jpg)
+![Fig5.jpg](imgs%2FFig5.jpg)
 ## Environment
 
 - Ubuntu 22.04
@@ -65,29 +64,29 @@ We conducted tests on a total of 17 datasets obtained from four types of sensors
 
 
 | Data ID      | Data Name                | AP     |
-| ------------ | ------------------------ | ------ |
-| $A^1$        | lidar__a.txt             | 0.6903 |
-| $A^2$        | lidar__b.txt             | 0.8169 |
-| $A^3$        | lidar__c.txt             | 0.8277 |
-| $A^4$        | lidar__d.txt             | 0.8797 |
-| $B^1$        | other__Maize-04_gt.txt   | 0.9943 |
-| $B^2$        | other__grou_maize_gd.txt | 0.9756 |
-| $C^1$        | slam__slam_all.txt       | 0.9602 |
-| $D^1$        | rgb__0707_Tian_30_gt.txt | 1.0000 |
-| $D^2$        | rgb__0707_502_30_gt.txt  | 0.9244 |
-| $D^3$        | rgb__0709_XY_20_gt.txt   | 0.8856 |
-| $D^4$        | rgb__0709_XY_30_gt.txt   | 0.9506 |
-| $D^5$        | rgb__0721_Tian_20_gt.txt | 1.0000 |
-| $D^6$        | rgb__0729_Tian_30_gt.txt | 0.8810 |
-| $E^1$        | DjiV4_clean_gt.txt       | 0.9354 |
-| $E^2$        | StPaulV3_clean.txt       | 0.9711 |
-| $E^3$        | StPaulV6_clean.txt       | 0.5568 |
-| $E^4$        | WasecaV5_clean.txt       | 0.6498 |
-|              | Average                  | 0.8764 |
-| $A^1_{test}$ | 2-lidar__a.txt           | 0.7523 |
-| $A^2_{test}$ | 2-lidar__b.txt           | 0.7609 |
-| $A^3_{test}$ | 2-lidar__c.txt           | 0.8186 |
-| $A^4_{test}$ | 2-lidar__d.txt           | 0.8998 |
+| ------------ | ------------------------ |--------|
+| $A^1$        | lidar__a.txt             | 0.7340 |
+| $A^2$        | lidar__b.txt             | 0.7948 |
+| $A^3$        | lidar__c.txt             | 0.8495 |
+| $A^4$        | lidar__d.txt             | 0.9037 |
+| $B^1$        | other__Maize-04_gt.txt   | 0.9808 |
+| $B^2$        | other__grou_maize_gd.txt | 1.0    |
+| $C^1$        | slam__slam_all.txt       | 0.9868 |
+| $D^1$        | rgb__0707_Tian_30_gt.txt | 1.0    |
+| $D^2$        | rgb__0707_502_30_gt.txt  | 1.0    |
+| $D^3$        | rgb__0709_XY_20_gt.txt   | 0.8367 |
+| $D^4$        | rgb__0709_XY_30_gt.txt   | 1.0    |
+| $D^5$        | rgb__0721_Tian_20_gt.txt | 1.0    |
+| $D^6$        | rgb__0729_Tian_30_gt.txt | 0.9738 |
+| $E^1$        | DjiV4_clean_gt.txt       | 0.9011 |
+| $E^2$        | StPaulV3_clean.txt       | 0.9675 |
+| $E^3$        | StPaulV6_clean.txt       | 0.5403 |
+| $E^4$        | WasecaV5_clean.txt       | 0.6561 |
+|              | Average                  | 0.8897 |
+| $A^1_{test}$ | 2-lidar__a.txt           | 0.7549 |
+| $A^2_{test}$ | 2-lidar__b.txt           | 0.7822 |
+| $A^3_{test}$ | 2-lidar__c.txt           | 0.8396 |
+| $A^4_{test}$ | 2-lidar__d.txt           | 0.9203 |
 
 
 
