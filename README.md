@@ -80,11 +80,11 @@ We conducted tests on a total of 17 datasets obtained from four types of sensors
 | $D^4$        | rgb__0709_XY_30_gt.txt   | 1.0    |
 | $D^5$        | rgb__0721_Tian_20_gt.txt | 1.0    |
 | $D^6$        | rgb__0729_Tian_30_gt.txt | 0.9738 |
+|              | Average                  | 0.9246 |
 | $E^1$        | DjiV4_clean_gt.txt       | 0.9011 |
 | $E^2$        | StPaulV3_clean.txt       | 0.9675 |
 | $E^3$        | StPaulV6_clean.txt       | 0.5403 |
 | $E^4$        | WasecaV5_clean.txt       | 0.6561 |
-|              | Average                  | 0.8897 |
 | $A^1_{test}$ | 2-lidar__a.txt           | 0.7549 |
 | $A^2_{test}$ | 2-lidar__b.txt           | 0.7822 |
 | $A^3_{test}$ | 2-lidar__c.txt           | 0.8396 |
