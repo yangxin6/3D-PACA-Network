@@ -129,3 +129,14 @@ We provide our best model weights here: [model_pth](https://www.kaggle.com/datas
 
 If you find this project useful in your research, please consider cite:
 
+```
+Xin Yang, Teng Miao, Yitong Tao, Bo Zhang, Xiaotong Wu, Xiaodan Han, Jinshi Yu, Yuncheng Zhou, Hanbing Deng, Ying Wang, Tongyu Xu,
+PACANet: A Paired-Attention central axis aggregation network for plant population point cloud segmentation and phenotypic trait Extraction—A case study on maize,
+Computers and Electronics in Agriculture,
+Volume 237, Part B,
+2025,
+110611,
+ISSN 0168-1699,
+https://doi.org/10.1016/j.compag.2025.110611.
+```
+
